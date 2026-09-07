@@ -1,2 +1,4 @@
 # AI_DA_Cesar-
-Practica 
+Practica
+
+Soy Cesar y mi database es de carros.
